@@ -1,0 +1,1001 @@
+,title,release_year,age_rating,runtime,rating,metascore,director,votes,gross
+0,Se7en,1995,R,127,8.6,65,David Fincher,1446944,100125643
+1,The Silence of the Lambs,1991,R,118,8.6,85,Jonathan Demme,1271673,130742922
+2,Shutter Island,2010,R,138,8.2,63,Martin Scorsese,1131492,128012934
+3,The Sixth Sense,1999,PG-13,107,8.1,64,M. Night Shyamalan,912231,293506292
+4,The Shining,1980,R,146,8.4,66,Stanley Kubrick,899321,44017374
+5,Jurassic Park,1993,PG-13,127,8.1,68,Steven Spielberg,868386,402453882
+6,The Terminator,1984,R,107,8.0,84,James Cameron,800229,38400000
+7,Alien,1979,R,117,8.4,89,Ridley Scott,788645,78900000
+8,Requiem for a Dream,2000,R,102,8.3,68,Darren Aronofsky,767672,3635482
+9,A Clockwork Orange,1971,R,136,8.3,77,Stanley Kubrick,758657,6207725
+10,Donnie Darko,2001,R,113,8.0,88,Richard Kelly,740577,1480006
+11,Black Swan,2010,R,108,8.0,79,Darren Aronofsky,700181,106954678
+12,I Am Legend,2007,PG-13,101,7.2,65,Francis Lawrence,687507,256386216
+13,Aliens,1986,R,137,8.3,84,James Cameron,653276,85160248
+14,Pan's Labyrinth,2006,R,118,8.2,98,Guillermo del Toro,619118,37634615
+15,Psycho,1960,R,109,8.5,97,Alfred Hitchcock,604875,32000000
+16,World War Z,2013,PG-13,116,7.0,63,Marc Forster,602197,202359711
+17,Jaws,1975,PG,124,8.0,87,Steven Spielberg,543685,260000000
+18,Zombieland,2009,R,88,7.6,73,Ruben Fleischer,520339,75590286
+19,Oldboy,2003,R,120,8.4,77,Chan-wook Park,516076,707481
+20,Shaun of the Dead,2004,R,99,7.9,76,Edgar Wright,512615,13542874
+21,Get Out,2017,R,104,7.7,85,Jordan Peele,493612,176040665
+22,American Psycho,2000,R,101,7.6,64,Mary Harron,491031,15070285
+23,Zodiac,2007,R,157,7.7,78,David Fincher,466891,33080084
+24,It,2017,R,135,7.3,69,Andy Muschietti,460094,327481748
+25,Rear Window,1954,PG,112,8.4,100,Alfred Hitchcock,444552,36764313
+26,The Conjuring,2013,R,112,7.5,68,James Wan,442595,137400141
+27,War of the Worlds,2005,PG-13,116,6.5,73,Steven Spielberg,416251,234280354
+28,Saw,2004,R,103,7.6,46,James Wan,379284,56000369
+29,28 Days Later...,2002,R,113,7.6,73,Danny Boyle,377114,45064915
+30,The Cabin in the Woods,2011,R,95,7.0,72,Drew Goddard,377025,42073277
+31,Cloverfield,2008,PG-13,85,7.0,64,Matt Reeves,373261,80048433
+32,Predator,1987,R,107,7.8,45,John McTiernan,371660,59735548
+33,The Thing,1982,R,109,8.1,57,John Carpenter,371644,13782838
+34,The Exorcist,1973,R,122,8.0,81,William Friedkin,362606,232906145
+35,Ghostbusters,1984,PG,105,7.8,71,Ivan Reitman,355656,238632124
+36,Sweeney Todd: The Demon Barber of Fleet Street,2007,R,116,7.3,83,Tim Burton,344482,52898073
+37,The Others,2001,PG-13,104,7.6,74,Alejandro Amenábar,337880,96522687
+38,Signs,2002,PG-13,106,6.7,59,M. Night Shyamalan,337099,227966634
+39,Sleepy Hollow,1999,R,105,7.3,65,Tim Burton,332242,101071502
+40,The Devil's Advocate,1997,R,144,7.5,60,Taylor Hackford,332062,60984028
+41,Mulholland Dr.,2001,R,147,7.9,85,David Lynch,322444,7220243
+42,The Ring,2002,PG-13,115,7.1,57,Gore Verbinski,321493,129128133
+43,Constantine,2005,R,121,7.0,50,Francis Lawrence,307250,75976178
+44,The Nightmare Before Christmas,1993,PG,76,8.0,82,Henry Selick,300406,75082668
+45,Interview with the Vampire: The Vampire Chronicles,1994,R,123,7.5,59,Neil Jordan,295072,105264608
+46,Scream,1996,R,111,7.3,65,Wes Craven,287948,103046663
+47,From Dusk Till Dawn,1996,R,108,7.2,48,Robert Rodriguez,287250,25753840
+48,The Mist,2007,R,126,7.1,58,Frank Darabont,281362,25593755
+49,Insidious,2010,PG-13,103,6.8,52,James Wan,278934,54009150
+50,Alien³,1992,R,114,6.5,59,David Fincher,278165,55473600
+51,Death Proof,2007,TV-MA,127,7.0,-1,Quentin Tarantino,268765,-1
+52,Beetlejuice,1988,PG,92,7.5,70,Tim Burton,264129,73707461
+53,28 Weeks Later,2007,R,100,7.0,78,Juan Carlos Fresnadillo,258753,28638916
+54,1408,2007,PG-13,104,6.8,64,Mikael Håfström,255589,71985628
+55,Hannibal,2001,R,131,6.8,57,Ridley Scott,254860,165092268
+56,Underworld,2003,R,121,7.0,42,Len Wiseman,253004,51970690
+57,Resident Evil,2002,R,100,6.7,33,Paul W.S. Anderson,247694,40119709
+58,Blade,1998,R,120,7.1,45,Stephen Norrington,245321,70087718
+59,The Village,2004,PG-13,108,6.5,44,M. Night Shyamalan,242874,114197520
+60,Dawn of the Dead,2004,R,101,7.3,59,Zack Snyder,234088,59020957
+61,Halloween,1978,R,91,7.7,87,John Carpenter,233279,47000000
+62,Saw II,2005,R,93,6.6,40,Darren Lynn Bousman,232976,87039965
+63,The Blair Witch Project,1999,R,81,6.5,81,Daniel Myrick,232735,140539099
+64,Scary Movie,2000,R,88,6.2,48,Keenen Ivory Wayans,232404,157019771
+65,Final Destination,2000,R,98,6.7,36,James Wong,229909,53331147
+66,Identity,2003,R,90,7.3,64,James Mangold,227485,52159536
+67,Pitch Black,2000,R,109,7.1,49,David Twohy,225461,39240659
+68,Sinister,2012,R,110,6.8,53,Scott Derrickson,222109,48086903
+69,Paranormal Activity,2007,R,86,6.3,68,Oren Peli,220846,107918810
+70,Warm Bodies,2013,PG-13,98,6.8,60,Jonathan Levine,219293,66380662
+71,Silent Hill,2006,R,125,6.5,31,Christophe Gans,213974,46982632
+72,Cube,1997,R,90,7.2,61,Vincenzo Natali,212648,501818
+73,It Follows,2014,R,100,6.8,83,David Robert Mitchell,210765,14673301
+74,A Nightmare on Elm Street,1984,TV-14,91,7.5,76,Wes Craven,207294,25504513
+75,Let the Right One In,2008,R,114,7.9,82,Tomas Alfredson,205696,2122065
+76,The VVitch: A New-England Folktale,2015,R,92,6.9,83,Robert Eggers,203453,25138292
+77,The Descent,2005,R,99,7.2,71,Neil Marshall,201675,26024456
+78,Planet Terror,2007,R,105,7.1,-1,Robert Rodriguez,200123,-1
+79,Gremlins,1984,PG,106,7.3,70,Joe Dante,200120,148170000
+80,Blade II,2002,R,117,6.7,52,Guillermo del Toro,200045,82348319
+81,Coraline,2009,PG,100,7.7,80,Henry Selick,197914,75286229
+82,The Babadook,2014,Not Rated,94,6.8,86,Jennifer Kent,197249,924279
+83,Rosemary's Baby,1968,Approved,137,8.0,96,Roman Polanski,193923,-1
+84,Bram Stoker's Dracula,1992,R,128,7.4,57,Francis Ford Coppola,193058,82522790
+85,Orphan,2009,R,123,7.0,42,Jaume Collet-Serra,191250,41596251
+86,Drag Me to Hell,2009,PG-13,99,6.5,83,Sam Raimi,188108,42100625
+87,The Evil Dead,1981,NC-17,85,7.5,71,Sam Raimi,187476,2400000
+88,Misery,1990,R,107,7.8,75,Rob Reiner,184933,61276872
+89,Blue Velvet,1986,R,120,7.7,76,David Lynch,181512,8551228
+90,Saw III,2006,R,108,6.2,48,Darren Lynn Bousman,178461,80238724
+91,Grindhouse,2007,R,191,7.5,77,Robert Rodriguez,178033,25031037
+92,Cape Fear,1991,R,128,7.3,73,Martin Scorsese,174402,79100000
+93,The Woman in Black,2012,PG-13,95,6.4,62,James Watkins,174306,54333290
+94,The Birds,1963,PG-13,119,7.7,90,Alfred Hitchcock,171872,11403529
+95,Hostel,2005,R,94,5.9,55,Eli Roth,169783,47326473
+96,Battle Royale,2000,Not Rated,114,7.6,81,Kinji Fukasaku,169176,-1
+97,Mama,2013,PG-13,100,6.2,57,Andy Muschietti,168920,71628180
+98,Carrie,1976,R,98,7.4,85,Brian De Palma,168489,33800000
+99,The Ninth Gate,1999,R,133,6.7,44,Roman Polanski,167729,18661336
+100,The Crow,1994,R,102,7.6,71,Alex Proyas,166607,50693162
+101,REC,2007,R,78,7.4,69,Jaume Balagueró,165697,-1
+102,Tucker and Dale vs Evil,2010,R,89,7.5,65,Eli Craig,165409,223838
+103,30 Days of Night,2007,R,113,6.6,53,David Slade,165051,39568996
+104,Army of Darkness,1992,R,81,7.5,59,Sam Raimi,162858,11502976
+105,The Fly,1986,R,96,7.6,79,David Cronenberg,159887,40456565
+106,Event Horizon,1997,R,96,6.7,35,Paul W.S. Anderson,159775,26673242
+107,The Hills Have Eyes,2006,R,107,6.4,52,Alexandre Aja,158703,41778863
+108,Scream 2,1997,R,120,6.2,63,Wes Craven,157842,101363301
+109,What We Do in the Shadows,2014,R,86,7.7,76,Jemaine Clement,157694,3333000
+110,Evil Dead,2013,R,91,6.5,57,Fede Alvarez,156677,54239856
+111,Insidious: Chapter 2,2013,PG-13,106,6.6,40,James Wan,155462,83586447
+112,Hard Candy,2005,R,104,7.1,58,David Slade,153746,1007962
+113,Final Destination 2,2003,R,90,6.2,38,David R. Ellis,152395,46961214
+114,Evil Dead II,1987,R,84,7.8,72,Sam Raimi,148439,5923044
+115,From Hell,2001,R,122,6.8,54,Albert Hughes,146949,31602566
+116,The Orphanage,2007,R,105,7.4,74,J.A. Bayona,146941,7161284
+117,Poltergeist,1982,PG,114,7.3,79,Tobe Hooper,144618,76606280
+118,Pandorum,2009,R,108,6.7,28,Christian Alvart,143652,10330853
+119,M,1931,Passed,99,8.3,-1,Fritz Lang,143639,28877
+120,Young Frankenstein,1974,PG,106,8.0,80,Mel Brooks,143557,86300000
+121,The Skin I Live In,2011,R,120,7.6,70,Pedro Almodóvar,139086,3185812
+122,The Grudge,2004,PG-13,91,5.9,49,Takashi Shimizu,138835,110359362
+123,The Texas Chain Saw Massacre,1974,R,83,7.5,78,Tobe Hooper,137650,30859000
+124,Devil,2010,PG-13,80,6.2,44,John Erick Dowdle,133896,33583175
+125,I Know What You Did Last Summer,1997,R,101,5.7,52,Jim Gillespie,133691,72586134
+126,The Rocky Horror Picture Show,1975,R,100,7.4,65,Jim Sharman,133236,139876417
+127,Lost Highway,1997,R,134,7.6,52,David Lynch,131270,3796699
+128,Final Destination 3,2006,R,93,5.8,41,James Wong,130923,54098051
+129,The Texas Chainsaw Massacre,2003,R,98,6.2,38,Marcus Nispel,130245,80571655
+130,Under the Skin,2013,R,108,6.3,80,Jonathan Glazer,129984,2605039
+131,Scream 4,2011,R,111,6.1,52,Wes Craven,128152,38180928
+132,The Lost Boys,1987,R,97,7.3,63,Joel Schumacher,124235,32222567
+133,Scream 3,2000,R,116,5.6,56,Wes Craven,124063,89138076
+134,The Thing,2011,R,103,6.2,49,Matthijs van Heijningen Jr.,122344,16928670
+135,Daybreakers,2009,R,98,6.4,57,Michael Spierig,122213,30101577
+136,Tremors,1990,PG-13,96,7.1,65,Ron Underwood,120563,16667084
+137,Irréversible,2002,Not Rated,97,7.4,51,Gaspar Noé,120372,753501
+138,Friday the 13th,1980,R,95,6.5,22,Sean S. Cunningham,120189,39754601
+139,The Exorcism of Emily Rose,2005,PG-13,119,6.7,46,Scott Derrickson,119867,75072454
+140,The Strangers,2008,R,86,6.2,47,Bryan Bertino,118096,52597610
+141,What Lies Beneath,2000,PG-13,130,6.6,51,Robert Zemeckis,117930,155464351
+142,Oculus,2013,R,104,6.5,61,Mike Flanagan,117476,27695246
+143,Antichrist,2009,Not Rated,108,6.6,49,Lars von Trier,116706,397070
+144,Night of the Living Dead,1968,Not Rated,96,7.9,89,George A. Romero,116642,89029
+145,Jennifer's Body,2009,R,102,5.2,47,Karyn Kusama,116237,16204793
+146,House of Wax,2005,R,113,5.3,41,Jaume Collet-Serra,115695,32064800
+147,Let Me In,2010,R,116,7.1,79,Matt Reeves,113676,12134420
+148,The Crazies,2010,R,101,6.5,56,Breck Eisner,111628,39123589
+149,Dawn of the Dead,1978,Unrated,127,7.9,71,George A. Romero,111565,5100000
+150,I Saw the Devil,2010,Not Rated,144,7.8,67,Jee-woon Kim,111438,128392
+151,Jeepers Creepers,2001,R,90,6.2,49,Victor Salva,111328,37904175
+152,The Faculty,1998,R,104,6.5,61,Robert Rodriguez,111044,40064955
+153,Freddy vs. Jason,2003,R,97,5.7,37,Ronny Yu,110955,82622655
+154,They Live,1988,R,94,7.3,55,John Carpenter,110442,13008928
+155,Wrong Turn,2003,R,84,6.1,32,Rob Schmidt,109261,15417771
+156,Halloween,2007,R,109,6.1,47,Rob Zombie,109244,58272029
+157,The Host,2006,R,120,7.1,85,Bong Joon Ho,107594,2201923
+158,The Omen,1976,R,111,7.5,62,Richard Donner,107410,4273886
+159,Final Destination 5,2011,R,92,5.8,50,Steven Quale,106818,42587643
+160,The Skeleton Key,2005,PG-13,104,6.5,47,Iain Softley,106340,47806295
+161,Hellraiser,1987,R,94,7.0,57,Clive Barker,104260,14564027
+162,Hocus Pocus,1993,PG,96,6.9,43,Kenny Ortega,103648,39514713
+163,Triangle,2009,R,99,6.9,-1,Christopher Smith,103219,-1
+164,Eraserhead,1977,Not Rated,89,7.4,87,David Lynch,103194,7000000
+165,Attack the Block,2011,R,88,6.6,75,Joe Cornish,99817,1024175
+166,Fright Night,2011,R,106,6.3,64,Craig Gillespie,99612,18298649
+167,Jacob's Ladder,1990,R,113,7.5,62,Adrian Lyne,98860,26118851
+168,Deliverance,1972,R,109,7.7,80,John Boorman,98810,7056013
+169,Paranormal Activity 2,2010,R,91,5.6,53,Tod Williams,98722,84752907
+170,Frankenweenie,2012,PG,87,6.9,74,Tim Burton,98507,35291068
+171,Friday the 13th,2009,R,97,5.5,34,Marcus Nispel,98136,65002019
+172,Anaconda,1997,PG-13,89,4.8,37,Luis Llosa,96896,65885767
+173,The Cell,2000,R,107,6.4,40,Tarsem Singh,95474,61334059
+174,Vacancy,2007,R,85,6.2,54,Nimród Antal,94426,19363565
+175,Pet Sematary,1989,R,103,6.6,38,Mary Lambert,94422,57469467
+176,Ghost Ship,2002,R,91,5.5,28,Steve Beck,93986,30113491
+177,eXistenZ,1999,R,97,6.8,68,David Cronenberg,93901,2840417
+178,Gremlins 2: The New Batch,1990,PG-13,106,6.4,-1,Joe Dante,93581,41482207
+179,The Devil's Rejects,2005,R,107,6.8,53,Rob Zombie,93377,17044981
+180,An American Werewolf in London,1981,R,97,7.5,55,John Landis,92972,30565292
+181,Land of the Dead,2005,R,93,6.2,71,George A. Romero,91801,20700082
+182,Braindead,1992,R,104,7.5,54,Peter Jackson,91415,242623
+183,Only Lovers Left Alive,2013,R,123,7.3,79,Jim Jarmusch,91045,1879534
+184,Funny Games,2007,R,111,6.6,44,Michael Haneke,90763,1294640
+185,Paranormal Activity 3,2011,R,83,5.8,59,Henry Joost,90363,104007828
+186,Nosferatu,1922,Not Rated,94,7.9,-1,F.W. Murnau,88867,-1
+187,You're Next,2011,R,95,6.6,66,Adam Wingard,88351,18474268
+188,Child's Play,1988,R,87,6.6,58,Tom Holland,87765,33244684
+189,Twin Peaks: Fire Walk with Me,1992,R,134,7.3,45,David Lynch,86817,4160851
+190,Piranha 3D,2010,R,88,5.4,53,Alexandre Aja,85918,25003155
+191,Dead Silence,2007,R,89,6.2,34,James Wan,85813,16809076
+192,The Last House on the Left,2009,R,110,6.5,42,Dennis Iliadis,85804,32752215
+193,Hostel: Part II,2007,R,94,5.5,46,Eli Roth,85489,17609452
+194,Videodrome,1983,R,87,7.2,60,David Cronenberg,83987,2120439
+195,Martyrs,2008,R,99,7.1,-1,Pascal Laugier,83511,-1
+196,The Frighteners,1996,R,110,7.1,52,Peter Jackson,82115,16759216
+197,The Night of the Hunter,1955,Not Rated,92,8.0,99,Charles Laughton,82056,654000
+198,Trick 'r Treat,2007,R,82,6.8,-1,Michael Dougherty,81180,-1
+199,Angel Heart,1987,X,113,7.3,61,Alan Parker,80587,17185632
+200,Suspiria,1977,R,92,7.4,79,Dario Argento,80525,-1
+201,Flatliners,1990,R,115,6.6,55,Joel Schumacher,80001,61490000
+202,Thir13en Ghosts,2001,R,91,5.6,30,Steve Beck,79804,41867960
+203,The Craft,1996,R,101,6.4,55,Andrew Fleming,79567,24881000
+204,King Kong,1933,Passed,100,7.9,90,Merian C. Cooper,79082,10000000
+205,House of 1000 Corpses,2003,R,89,6.1,31,Rob Zombie,78290,12634962
+206,"As Above, So Below",2014,R,93,6.2,38,John Erick Dowdle,77460,21197315
+207,Frailty,2001,R,100,7.2,64,Bill Paxton,77250,13103828
+208,Eden Lake,2008,R,91,6.8,65,James Watkins,76931,5824
+209,Fatal Attraction,1987,R,119,6.9,67,Adrian Lyne,76732,156645693
+210,The Uninvited,2009,PG-13,87,6.3,43,Charles Guard,76356,28573173
+211,I Spit on Your Grave,2010,R,108,6.3,27,Steven R. Monroe,76348,93051
+212,The Mothman Prophecies,2002,PG-13,119,6.4,52,Mark Pellington,76117,35746370
+213,Stir of Echoes,1999,R,99,7.0,67,David Koepp,75454,21133087
+214,Halloween II,1981,R,92,6.5,40,Rick Rosenthal,75386,25533818
+215,Slither,2006,R,95,6.5,69,James Gunn,74624,7774730
+216,Species,1995,R,108,5.8,49,Roger Donaldson,74353,60074103
+217,Cabin Fever,2002,R,93,5.7,56,Eli Roth,74059,21158188
+218,The Human Centipede (First Sequence),2009,R,92,4.4,33,Tom Six,73288,181467
+219,Audition,1999,R,115,7.2,69,Takashi Miike,72954,-1
+220,Christine,1983,R,110,6.7,57,John Carpenter,72629,21200000
+221,A Nightmare on Elm Street 3: Dream Warriors,1987,R,96,6.6,49,Chuck Russell,71077,44793222
+222,Candyman,1992,R,99,6.6,61,Bernard Rose,70741,25792310
+223,The Ruins,2008,R,90,5.9,44,Carter Smith,70417,17432844
+224,Quarantine,2008,R,89,5.9,53,John Erick Dowdle,70301,31691811
+225,The Wicker Man,1973,R,88,7.5,87,Robin Hardy,70224,60891
+226,Trollhunter,2010,PG-13,103,7.0,61,André Øvredal,68880,252652
+227,[Rec]²,2009,R,85,6.5,52,Jaume Balagueró,68802,27766
+228,Unfriended,2014,R,83,5.5,59,Levan Gabriadze,68794,32482090
+229,The 'Burbs,1989,PG,102,6.9,45,Joe Dante,68519,36602000
+230,Frozen,2010,R,93,6.1,43,Adam Green,68087,243390
+231,Wolf Creek,2005,R,99,6.2,54,Greg McLean,67813,16188180
+232,High Tension,2003,R,91,6.8,42,Alexandre Aja,67696,3681066
+233,Halloween H20: 20 Years Later,1998,R,86,5.8,52,Steve Miner,66607,55041738
+234,Manhunter,1986,R,120,7.2,75,Michael Mann,66085,8620929
+235,Little Shop of Horrors,1986,PG-13,94,7.0,81,Frank Oz,66068,38747385
+236,Frankenstein,1931,Passed,70,7.8,91,James Whale,65388,-1
+237,Funny Games,1997,Not Rated,108,7.6,69,Michael Haneke,65137,-1
+238,The Fog,1980,R,89,6.8,55,John Carpenter,64567,21378000
+239,Joy Ride,2001,R,97,6.6,75,John Dahl,64199,21973182
+240,Dead Snow,2009,Not Rated,91,6.3,61,Tommy Wirkola,64140,41709
+241,Ringu,1998,Not Rated,96,7.2,-1,Hideo Nakata,63918,-1
+242,Arachnophobia,1990,PG-13,109,6.4,67,Frank Marshall,63437,53208180
+243,Day of the Dead,1985,Not Rated,96,7.2,60,George A. Romero,63335,5804262
+244,The Awakening,2011,R,102,6.5,53,Nick Murphy,63326,-1
+245,Duel,1971,PG,90,7.6,-1,Steven Spielberg,63035,-1
+246,Brotherhood of the Wolf,2001,R,142,7.0,57,Christophe Gans,62896,11260096
+247,The Dead Zone,1983,R,103,7.2,69,David Cronenberg,62573,20766000
+248,Red State,2011,R,88,6.2,50,Kevin Smith,62101,1104682
+249,The Devil's Backbone,2001,R,106,7.4,78,Guillermo del Toro,61850,754749
+250,A Nightmare on Elm Street 2: Freddy's Revenge,1985,R,87,5.5,43,Jack Sholder,61774,29999213
+251,In the Mouth of Madness,1994,R,95,7.2,53,John Carpenter,61643,8946600
+252,Diabolique,1955,Not Rated,117,8.0,-1,Henri-Georges Clouzot,61550,-1
+253,Fright Night,1985,R,106,7.1,62,Tom Holland,61541,24922237
+254,Kiss of the Dragon,2001,R,98,6.6,58,Chris Nahon,60887,36845124
+255,Urban Legend,1998,R,99,5.6,35,Jamie Blanks,60410,38072438
+256,The Midnight Meat Train,2008,R,100,6.0,58,Ryûhei Kitamura,60225,83361
+257,Friday the 13th Part 2,1981,R,87,6.1,26,Steve Miner,59497,21722776
+258,Come and See,1985,Not Rated,142,8.3,-1,Elem Klimov,59278,-1
+259,The Collector,2009,R,90,6.4,29,Marcus Dunstan,58580,7706394
+260,Timecrimes,2007,R,92,7.2,68,Nacho Vigalondo,58505,38108
+261,Perfect Blue,1997,R,81,8.0,-1,Satoshi Kon,58340,776665
+262,A Serbian Film,2010,NC-17,104,5.0,-1,Srdjan Spasojevic,57630,-1
+263,The Cabinet of Dr. Caligari,1920,Not Rated,67,8.1,-1,Robert Wiene,57478,-1
+264,V/H/S,2012,R,116,5.8,55,Matt Bettinelli-Olpin,57081,99770
+265,A Tale of Two Sisters,2003,R,114,7.2,65,Jee-woon Kim,56730,-1
+266,Re-Animator,1985,Unrated,104,7.2,73,Stuart Gordon,56693,2023414
+267,Straw Dogs,1971,R,113,7.5,73,Sam Peckinpah,56338,-1
+268,Dog Soldiers,2002,R,105,6.8,-1,Neil Marshall,55591,-1
+269,Lake Placid,1999,R,82,5.7,34,Steve Miner,55100,31770414
+270,Session 9,2001,R,97,6.4,58,Brad Anderson,54979,378176
+271,The Return of the Living Dead,1985,R,91,7.3,66,Dan O'Bannon,54676,14237000
+272,"Salò, or the 120 Days of Sodom",1975,Not Rated,117,5.9,-1,Pier Paolo Pasolini,54376,-1
+273,My Bloody Valentine,2009,R,101,5.4,51,Patrick Lussier,53670,51545952
+274,Inland Empire,2006,R,180,6.9,73,David Lynch,53616,751138
+275,Vampires,1998,R,108,6.2,42,John Carpenter,53496,20241395
+276,House on Haunted Hill,1999,R,93,5.7,28,William Malone,53459,40846082
+277,Invasion of the Body Snatchers,1978,PG,115,7.4,75,Philip Kaufman,53290,24946533
+278,Grave Encounters,2011,Not Rated,92,6.1,33,Colin Minihan,52866,-1
+279,Eight Legged Freaks,2002,PG-13,99,5.4,53,Ellory Elkayem,52709,17322606
+280,Wolf,1994,R,125,6.3,-1,Mike Nichols,52659,65012000
+281,Bride of Chucky,1998,R,89,5.4,48,Ronny Yu,52411,32383850
+282,Koroshiya 1,2001,R,129,7.0,55,Takashi Miike,52307,20285
+283,Night Watch,2004,R,114,6.4,58,Timur Bekmambetov,52273,1487477
+284,Frankenstein,1994,R,123,6.4,-1,Kenneth Branagh,51569,22006296
+285,Wes Craven's New Nightmare,1994,R,112,6.5,64,Wes Craven,51427,18090181
+286,Open Water,2003,R,79,5.7,63,Chris Kentis,51039,30610863
+287,Cannibal Holocaust,1980,Unrated,95,5.9,22,Ruggero Deodato,50850,-1
+288,A Nightmare on Elm Street 4: The Dream Master,1988,R,93,5.7,56,Renny Harlin,50196,49369899
+289,What Ever Happened to Baby Jane?,1962,Passed,134,8.1,75,Robert Aldrich,50090,4050000
+290,Don't Look Now,1973,R,110,7.2,96,Nicolas Roeg,49965,979337
+291,Repulsion,1965,Not Rated,105,7.7,91,Roman Polanski,48936,-1
+292,Halloween II,2009,R,105,4.9,35,Rob Zombie,48733,33392973
+293,Scanners,1981,R,103,6.8,60,David Cronenberg,48593,14225876
+294,The Last Exorcism,2010,PG-13,87,5.6,63,Daniel Stamm,47939,41034350
+295,Friday the 13th Part III,1982,R,95,5.7,30,Steve Miner,47781,36690067
+296,Children of the Corn,1984,R,92,5.7,45,Fritz Kiersch,47647,14568989
+297,Naked Lunch,1991,R,115,7.1,67,David Cronenberg,47158,2541541
+298,Dracula,1931,Passed,75,7.5,71,Tod Browning,46919,-1
+299,Mimic,1997,R,105,6.0,55,Guillermo del Toro,46226,25480490
+300,Un Chien Andalou,1929,Not Rated,16,7.7,-1,Luis Buñuel,46144,-1
+301,Diary of the Dead,2007,R,95,5.6,66,George A. Romero,45858,958961
+302,Bubba Ho-Tep,2002,R,92,7.0,57,Don Coscarelli,45697,2003420
+303,Friday the 13th: The Final Chapter,1984,R,91,6.0,33,Joseph Zito,45492,32980000
+304,Child's Play 2,1990,R,84,5.9,37,John Lafia,45354,28501605
+305,Invasion of the Body Snatchers,1956,Approved,80,7.7,92,Don Siegel,44871,-1
+306,Black Death,2010,R,102,6.4,71,Christopher Smith,44474,22554
+307,Goodnight Mommy,2014,R,99,6.7,81,Severin Fiala,44449,1168902
+308,The Witches,1990,PG,91,6.9,78,Nicolas Roeg,44135,10360553
+309,Bad Taste,1987,Not Rated,91,6.6,52,Peter Jackson,44115,-1
+310,Halloween 4: The Return of Michael Myers,1988,R,88,5.9,34,Dwight H. Little,44101,17768757
+311,The Hole,2001,R,102,6.2,-1,Nick Hamm,44096,-1
+312,Halloween III: Season of the Witch,1982,R,98,5.0,50,Tommy Lee Wallace,43987,14400000
+313,Carriers,2009,PG-13,84,6.0,-1,David Pastor,43684,90820
+314,The Hitcher,1986,R,97,7.2,32,Robert Harmon,43639,5844868
+315,The Bride of Frankenstein,1935,Not Rated,75,7.8,95,James Whale,43571,4360000
+316,Thirst,2009,R,134,7.1,73,Chan-wook Park,42698,296441
+317,Creepshow,1982,R,120,6.9,59,George A. Romero,42453,21028755
+318,Hellbound: Hellraiser II,1988,R,97,6.5,41,Tony Randel,42316,11090735
+319,Ginger Snaps,2000,Not Rated,108,6.8,70,John Fawcett,42172,2554
+320,Freaks,1932,Not Rated,64,7.9,80,Tod Browning,42140,-1
+321,Teeth,2007,R,94,5.4,57,Mitchell Lichtenstein,41602,347578
+322,Dead Ringers,1988,R,116,7.3,86,David Cronenberg,41573,9134733
+323,Frenzy,1972,R,116,7.4,92,Alfred Hitchcock,41515,12600000
+324,Shutter,2004,Not Rated,97,7.1,-1,Banjong Pisanthanakun,41308,-1
+325,Ju-on: The Grudge,2002,R,92,6.7,48,Takashi Shimizu,41292,325661
+326,Byzantium,2012,R,118,6.5,66,Neil Jordan,41277,84293
+327,The House of the Devil,2009,R,95,6.4,73,Ti West,41128,100659
+328,Stake Land,2010,R,98,6.5,66,Jim Mickle,40607,18469
+329,Shadow of the Vampire,2000,R,92,6.9,71,E. Elias Merhige,40063,8293784
+330,Buffy the Vampire Slayer,1992,PG-13,86,5.7,48,Fran Rubel Kuzui,40015,16624456
+331,The Tenant,1976,R,126,7.7,71,Roman Polanski,39932,1924733
+332,Idle Hands,1999,R,92,6.2,31,Rodman Flender,39882,4002955
+333,Cujo,1983,R,93,6.1,57,Lewis Teague,39808,21200000
+334,Mientras duermes,2011,Not Rated,102,7.2,70,Jaume Balagueró,39167,-1
+335,Black Sheep,2006,Not Rated,87,5.8,62,Jonathan King,39089,82987
+336,Friday the 13th Part VI: Jason Lives,1986,R,86,6.0,30,Tom McLoughlin,38965,19472057
+337,Night of the Living Dead,1990,R,92,6.9,54,Tom Savini,38861,5835247
+338,Would You Rather,2012,Not Rated,93,5.7,20,David Guy Levy,37692,-1
+339,Prince of Darkness,1987,R,102,6.7,50,John Carpenter,37631,14182492
+340,Inside,2007,R,82,6.8,-1,Alexandre Bustillo,37498,-1
+341,The Loved Ones,2009,R,84,6.6,73,Sean Byrne,37473,-1
+342,Kill List,2011,Not Rated,95,6.4,67,Ben Wheatley,36700,26297
+343,Ravenous,1999,R,101,7.0,46,Antonia Bird,36667,2060953
+344,Severance,2006,R,96,6.5,62,Christopher Smith,36637,136432
+345,Man Bites Dog,1992,NC-17,95,7.5,67,Rémy Belvaux,36345,205569
+346,John Dies at the End,2012,R,99,6.4,53,Don Coscarelli,36231,141307
+347,V/H/S/2,2013,R,96,6.0,49,Simon Barrett,36117,21833
+348,Plan 9 from Outer Space,1957,Not Rated,79,4.0,-1,Edward D. Wood Jr.,36070,-1
+349,The Human Centipede II (Full Sequence),2011,Not Rated,91,3.8,17,Tom Six,35834,122890
+350,Tesis,1996,R,125,7.4,-1,Alejandro Amenábar,35803,-1
+351,Dressed to Kill,1980,R,104,7.1,74,Brian De Palma,35596,31899000
+352,The Amityville Horror,1979,R,117,6.3,28,Stuart Rosenberg,35349,86432520
+353,Maniac,2012,Not Rated,89,6.1,47,Franck Khalfoun,35180,20551
+354,The Haunting,1963,G,112,7.5,74,Robert Wise,35010,2616000
+355,Curse of Chucky,2013,R,97,5.6,58,Don Mancini,34624,-1
+356,Black Christmas,1974,R,98,7.2,65,Bob Clark,34405,4053000
+357,Rubber,2010,R,82,5.8,59,Quentin Dupieux,34313,98017
+358,Friday the 13th: A New Beginning,1985,R,92,4.8,16,Danny Steinmann,34094,21930418
+359,The Vanishing,1988,Not Rated,107,7.7,-1,George Sluizer,34014,-1
+360,Near Dark,1987,R,94,7.0,76,Kathryn Bigelow,33949,3369307
+361,Picnic at Hanging Rock,1975,PG,115,7.5,81,Peter Weir,33789,232201
+362,Jack Frost,1998,PG,101,5.4,40,Troy Miller,33443,34545030
+363,Splinter,2008,R,82,6.1,58,Toby Wilkins,33423,-1
+364,Killer Klowns from Outer Space,1988,PG-13,88,6.2,43,Stephen Chiodo,33415,15625095
+365,May,2002,R,93,6.6,58,Lucky McKee,33201,150277
+366,Twilight Zone: The Movie,1983,PG,101,6.5,44,Joe Dante,33164,29500000
+367,Bug,2006,R,102,6.1,62,William Friedkin,33044,7006708
+368,The Innkeepers,2011,R,101,5.5,64,Ti West,32986,77501
+369,The Stand,1994,Not Rated,361,7.2,-1,Gary Sinise,32971,-1
+370,The Last House on the Left,1972,R,84,6.0,68,Wes Craven,32851,3100000
+371,Friday the 13th Part VII: The New Blood,1988,R,88,5.3,13,John Carl Buechler,32845,19170001
+372,Los ojos de Julia,2010,Not Rated,118,6.7,-1,Guillem Morales,32812,-1
+373,The War of the Worlds,1953,G,85,7.1,78,Byron Haskin,32739,4360000
+374,Nosferatu the Vampyre,1979,PG,107,7.5,79,Werner Herzog,32667,-1
+375,Phantasm,1979,R,89,6.7,72,Don Coscarelli,32465,11988469
+376,The Blob,1988,R,95,6.5,-1,Chuck Russell,32320,8247943
+377,Deep Red,1975,R,127,7.6,89,Dario Argento,32201,-1
+378,Altered States,1980,R,102,6.9,58,Ken Russell,32178,19853892
+379,Henry: Portrait of a Serial Killer,1986,Unrated,83,7.0,80,John McNaughton,32164,609939
+380,Housebound,2014,Not Rated,107,6.8,76,Gerard Johnstone,32056,-1
+381,All the Boys Love Mandy Lane,2006,R,90,5.5,44,Jonathan Levine,31447,-1
+382,The People Under the Stairs,1991,R,102,6.4,57,Wes Craven,31411,24204154
+383,Peeping Tom,1960,Not Rated,101,7.7,-1,Michael Powell,31379,83957
+384,A Girl Walks Home Alone at Night,2014,Not Rated,101,7.0,81,Ana Lily Amirpour,31344,-1
+385,The Howling,1981,R,91,6.6,68,Joe Dante,31226,17986000
+386,Critters,1986,PG-13,86,6.1,52,Stephen Herek,31141,13167232
+387,Troll 2,1990,PG-13,95,2.9,-1,Claudio Fragasso,30817,-1
+388,The Invisible Man,1933,TV-PG,71,7.7,87,James Whale,30713,-1
+389,The Hills Have Eyes,1977,R,90,6.3,64,Wes Craven,30454,25000000
+390,The Changeling,1980,R,107,7.2,70,Peter Medak,30398,-1
+391,Darkness Falls,2003,PG-13,86,5.0,23,Jonathan Liebesman,30194,32551396
+392,Maximum Overdrive,1986,R,98,5.5,24,Stephen King,30180,7433663
+393,Dark Water,2002,PG-13,101,6.7,-1,Hideo Nakata,30112,-1
+394,Feast,2005,R,95,6.3,43,John Gulager,29705,54556
+395,Dance of the Vampires,1967,Not Rated,91,7.2,56,Roman Polanski,29616,-1
+396,Damien: Omen II,1978,R,107,6.3,45,Don Taylor,29383,3880880
+397,Firestarter,1984,R,114,6.1,50,Mark L. Lester,29360,15100000
+398,Pontypool,2008,Not Rated,93,6.6,54,Bruce McDonald,29334,3478
+399,Gojira,1954,Not Rated,96,7.6,78,Ishirô Honda,29246,2423423
+400,Vampire Hunter D: Bloodlust,2000,R,103,7.7,62,Yoshiaki Kawajiri,29224,151086
+401,The Prophecy,1995,R,98,6.5,44,Gregory Widen,29152,16115878
+402,Them,2006,R,77,6.4,60,David Moreau,29071,-1
+403,Hatchet,2006,R,93,5.7,57,Adam Green,28992,155873
+404,The Omega Man,1971,PG,98,6.5,56,Boris Sagal,28959,8720000
+405,The Monster Squad,1987,PG-13,79,7.1,61,Fred Dekker,28441,3769990
+406,Creep,2004,R,85,5.6,-1,Christopher Smith,28207,-1
+407,Fido,2006,R,93,6.7,70,Andrew Currie,28160,298110
+408,The Texas Chainsaw Massacre 2,1986,Unrated,101,5.6,42,Tobe Hooper,28067,8025872
+409,Rogue,2007,R,99,6.2,-1,Greg McLean,28009,10452
+410,The Eye,2002,R,99,6.7,66,Danny Pang,27931,503714
+411,The Lords of Salem,2012,R,101,5.1,57,Rob Zombie,27899,1163508
+412,Wait Until Dark,1967,Not Rated,108,7.8,81,Terence Young,27751,17550741
+413,Les yeux sans visage,1960,Not Rated,90,7.7,90,Georges Franju,27664,52709
+414,Cronos,1993,R,94,6.7,70,Guillermo del Toro,27223,621392
+415,The Innocents,1961,Not Rated,100,7.8,88,Jack Clayton,27031,2616000
+416,Sleepaway Camp,1983,R,84,6.3,58,Robert Hiltzik,27013,11000000
+417,Rare Exports,2010,R,84,6.7,71,Jalmari Helander,26945,263210
+418,Sightseers,2012,Not Rated,88,6.5,69,Ben Wheatley,26880,35722
+419,Creature from the Black Lagoon,1954,G,79,7.0,68,Jack Arnold,26859,1300000
+420,Cape Fear,1962,Passed,106,7.7,76,J. Lee Thompson,26473,-1
+421,Dead End,2003,R,85,6.6,-1,Jean-Baptiste Andrea,26356,-1
+422,The Taking of Deborah Logan,2014,R,90,6.0,-1,Adam Robitel,26326,-1
+423,The Exorcist III,1990,R,110,6.4,48,William Peter Blatty,26073,26098824
+424,I Spit on Your Grave,1978,R,101,5.7,19,Meir Zarchi,25976,-1
+425,The Brood,1979,R,92,6.9,63,David Cronenberg,25976,-1
+426,The Thing from Another World,1951,Approved,87,7.1,-1,Christian Nyby,25903,-1
+427,Play Misty for Me,1971,R,102,7.0,78,Clint Eastwood,25676,11800340
+428,Zombie,1979,R,91,6.9,54,Lucio Fulci,25582,-1
+429,The Bay,2012,R,84,5.6,65,Barry Levinson,25562,30474
+430,Possession,1981,R,124,7.4,72,Andrzej Zulawski,25381,1113538
+431,Frontier(s),2007,Unrated,108,6.2,44,Xavier Gens,25212,-1
+432,The Toxic Avenger,1984,R,82,6.3,42,Michael Herz,25126,-1
+433,Honeymoon,2014,R,87,5.7,65,Leigh Janiak,24283,9168
+434,Beauty and the Beast,1946,Not Rated,93,7.9,92,Jean Cocteau,24237,298718
+435,Psycho II,1983,R,113,6.5,54,Richard Franklin,24235,34725000
+436,Silver Bullet,1985,R,95,6.4,26,Daniel Attias,24202,5400000
+437,The Wolf Man,1941,Not Rated,70,7.3,72,George Waggner,24059,-1
+438,The Mummy,1932,Approved,73,7.1,-1,Karl Freund,23713,-1
+439,Phenomena,1985,R,116,6.8,57,Dario Argento,23560,-1
+440,The Girl Next Door,2007,R,91,6.6,29,Gregory Wilson,23557,-1
+441,House on Haunted Hill,1959,Not Rated,75,6.9,-1,William Castle,23557,-1
+442,The Blob,1958,Approved,86,6.4,58,Irvin S. Yeaworth Jr.,23447,-1
+443,House,1985,R,93,6.2,44,Steve Miner,23390,19444631
+444,The Pact,2012,R,89,5.8,54,Nicholas McCarthy,23308,-1
+445,The Hunger,1983,R,97,6.7,52,Tony Scott,23154,5979292
+446,From Beyond,1986,R,85,6.7,-1,Stuart Gordon,22963,1261000
+447,Cat's Eye,1985,PG-13,94,6.3,70,Lewis Teague,22861,13086000
+448,Dead Snow 2: Red vs. Dead,2014,R,100,6.9,59,Tommy Wirkola,22857,-1
+449,American Mary,2012,R,103,6.3,46,Jen Soska,22844,-1
+450,Creepshow 2,1987,R,92,6.1,39,Michael Gornick,22613,14000000
+451,Lifeforce,1985,R,101,6.2,50,Tobe Hooper,22566,11603545
+452,The Serpent and the Rainbow,1988,R,98,6.5,64,Wes Craven,22052,19595031
+453,The Woman,2011,R,101,6.0,58,Lucky McKee,22029,-1
+454,Fire in the Sky,1993,PG-13,109,6.6,42,Robert Lieberman,21976,20100000
+455,Hausu,1977,Not Rated,88,7.4,-1,Nobuhiko Ôbayashi,21871,-1
+456,Behind the Mask: The Rise of Leslie Vernon,2006,R,92,6.7,66,Scott Glosserman,21802,69136
+457,Tales from the Crypt: Demon Knight,1995,R,92,6.7,48,Ernest R. Dickerson,21619,21088568
+458,Rose Red,2002,PG-13,254,6.8,-1,Nancy Travis,21538,-1
+459,Doghouse,2009,Not Rated,89,6.0,-1,Jake West,21137,-1
+460,Carnival of Souls,1962,Approved,78,7.1,-1,Herk Harvey,21109,-1
+461,Horror of Dracula,1958,Not Rated,82,7.3,67,Terence Fisher,21090,-1
+462,Below,2002,R,105,6.1,55,David Twohy,21044,605562
+463,Night of the Creeps,1986,R,88,6.8,62,Fred Dekker,20953,591366
+464,Wishmaster,1997,R,90,5.8,-1,Robert Kurtzman,20930,15719109
+465,Ugetsu,1953,Not Rated,96,8.3,-1,Kenji Mizoguchi,20915,11197
+466,The Fly,1958,Not Rated,94,7.1,-1,Kurt Neumann,20845,3000000
+467,Excision,2012,Not Rated,81,6.1,-1,Richard Bates Jr.,20824,-1
+468,Salem's Lot,1979,PG,200,6.8,-1,David Soul,20774,-1
+469,Tenebrae,1982,R,101,7.1,-1,Dario Argento,20587,-1
+470,Pumpkinhead,1988,R,86,6.2,47,Stan Winston,20550,4385516
+471,The Signal,2007,R,103,6.0,63,David Bruckner,20342,597420
+472,The Beyond,1981,R,87,6.8,38,Lucio Fulci,20309,123843
+473,Cat People,1942,Not Rated,73,7.3,-1,Jacques Tourneur,20122,4000000
+474,We Are What We Are,2013,R,105,5.9,71,Jim Mickle,20055,76633
+475,Demons,1985,Not Rated,88,6.7,53,Lamberto Bava,20013,-1
+476,Them!,1954,Not Rated,94,7.2,-1,Gordon Douglas,19971,-1
+477,Cemetery Man,1994,R,105,7.2,-1,Michele Soavi,19956,253969
+478,Nightbreed,1990,R,102,6.6,40,Clive Barker,19937,8862354
+479,Tetsuo: The Iron Man,1989,Not Rated,67,7.0,-1,Shin'ya Tsukamoto,19654,-1
+480,The Tunnel,2011,Not Rated,94,5.9,-1,Carlo Ledesma,19594,-1
+481,Cat People,1982,R,118,6.2,62,Paul Schrader,19318,7000000
+482,Santa Sangre,1989,NC-17,123,7.6,-1,Alejandro Jodorowsky,19180,-1
+483,Piranha,1978,R,94,5.9,71,Joe Dante,18999,6000000
+484,Inferno,1980,R,106,6.6,69,Dario Argento,18827,-1
+485,Sam gang 2,2004,R,125,7.0,66,Fruit Chan,18703,75829
+486,Jisatsu sâkuru,2001,R,99,6.6,-1,Sion Sono,18690,-1
+487,Hour of the Wolf,1968,Not Rated,90,7.6,-1,Ingmar Bergman,18645,-1
+488,Night of the Comet,1984,PG-13,95,6.4,59,Thom Eberhardt,18572,14418922
+489,Deadgirl,2008,R,101,5.6,36,Marcel Sarmiento,18555,-1
+490,Dead Set,2008,141 min,141,7.6,-1,Jaime Winstone,18536,-1
+491,Shivers,1975,R,87,6.4,58,David Cronenberg,18526,-1
+492,Starry Eyes,2014,Not Rated,98,6.0,49,Kevin Kölsch,18480,-1
+493,Cockneys vs Zombies,2012,Not Rated,88,5.9,52,Matthias Hoene,18369,-1
+494,The Bird with the Crystal Plumage,1970,GP,96,7.2,-1,Dario Argento,18286,422490
+495,Return of the Living Dead II,1988,R,89,5.8,45,Ken Wiederhorn,18270,9205924
+496,My Bloody Valentine,1981,R,90,6.3,46,George Mihalka,18164,5672031
+497,Lake Mungo,2008,R,87,6.3,-1,Joel Anderson,18124,-1
+498,Cheap Thrills,2013,Not Rated,88,6.7,63,E.L. Katz,17798,59379
+499,The Last Man on Earth,1964,Not Rated,86,6.9,-1,Ubaldo Ragona,17740,-1
+500,The Day of the Beast,1995,R,99,7.4,-1,Álex de la Iglesia,17729,15324
+501,Woman in the Dunes,1964,Not Rated,147,8.5,-1,Hiroshi Teshigahara,17423,-1
+502,The Hidden,1987,R,97,7.0,69,Jack Sholder,17315,9747988
+503,Cold Prey,2006,Not Rated,97,6.3,-1,Roar Uthaug,17241,-1
+504,The Children,2008,R,84,6.0,-1,Tom Shankland,17199,-1
+505,The Snowtown Murders,2011,Not Rated,119,6.6,66,Justin Kurzel,17197,8012
+506,The Sacrament,2013,R,99,6.1,49,Ti West,17100,9039
+507,Absentia,2011,R,87,5.8,-1,Mike Flanagan,17092,-1
+508,Phantom of the Paradise,1974,PG,91,7.4,67,Brian De Palma,16955,-1
+509,Riget,1994,TV-MA,561,8.3,-1,Ernst-Hugo Järegård,16954,86133
+510,One Missed Call,2003,R,112,6.2,54,Takashi Miike,16802,-1
+511,The Phantom of the Opera,1925,Passed,93,7.6,-1,Rupert Julian,16779,3751476
+512,Kairo,2001,R,119,6.5,70,Kiyoshi Kurosawa,16767,49046
+513,Body Snatchers,1993,R,87,6.0,65,Abel Ferrara,16715,428868
+514,Seconds,1966,R,106,7.7,71,John Frankenheimer,16569,-1
+515,Taxidermia,2006,Not Rated,91,6.9,83,György Pálfi,16507,10205
+516,Onibaba,1964,Not Rated,103,8.0,-1,Kaneto Shindô,16448,-1
+517,The Little Shop of Horrors,1960,Not Rated,72,6.3,-1,Roger Corman,16404,1400000
+518,The Stepford Wives,1975,PG,115,6.9,54,Bryan Forbes,16354,8720000
+519,Basket Case,1982,Not Rated,91,6.2,77,Frank Henenlotter,16329,-1
+520,House of Wax,1953,GP,88,7.1,-1,André De Toth,16281,23750000
+521,Rabid,1977,R,91,6.3,56,David Cronenberg,16192,-1
+522,The Burning,1981,R,91,6.4,42,Tony Maylam,16056,-1
+523,The Dark Half,1993,R,122,6.0,53,George A. Romero,16030,9579068
+524,The Incredible Shrinking Man,1957,Not Rated,81,7.6,73,Jack Arnold,16015,-1
+525,Mother's Day,2010,R,112,6.3,34,Darren Lynn Bousman,16004,-1
+526,Vampyr,1932,Not Rated,75,7.5,-1,Carl Theodor Dreyer,15933,-1
+527,Sisters,1972,R,93,6.9,-1,Brian De Palma,15857,353508
+528,The Poughkeepsie Tapes,2007,R,81,6.0,-1,John Erick Dowdle,15849,-1
+529,Prom Night,1980,R,92,5.4,45,Paul Lynch,15801,14796236
+530,City of the Living Dead,1980,Not Rated,93,6.3,-1,Lucio Fulci,15732,-1
+531,Michael Jackson: Thriller,1983,PG,13,8.7,-1,John Landis,15726,-1
+532,Kwaidan,1964,Not Rated,183,8.0,-1,Masaki Kobayashi,15435,-1
+533,Tales from the Darkside,1990,R,93,6.3,54,John Harrison,15426,16324573
+534,The Gate,1987,PG-13,85,6.1,55,Tibor Takács,15401,13539458
+535,Village of the Damned,1960,Not Rated,77,7.3,77,Wolf Rilla,15354,-1
+536,Opera,1987,R,107,7.0,-1,Dario Argento,15187,-1
+537,Nattevagten,1994,R,107,7.2,-1,Ole Bornedal,15149,-1
+538,Society,1989,R,99,6.6,-1,Brian Yuzna,15112,-1
+539,Bijitâ Q,2001,R,84,6.6,-1,Takashi Miike,15094,-1
+540,La horde,2009,Not Rated,90,5.9,-1,Yannick Dahan,15084,-1
+541,Warlock,1989,R,103,6.3,44,Steve Miner,15002,9094451
+542,The Company of Wolves,1984,R,95,6.7,69,Neil Jordan,14990,4389334
+543,Shocker,1989,R,109,5.5,51,Wes Craven,14961,16554699
+544,Detention,2011,R,93,5.7,45,Joseph Kahn,14892,-1
+545,The Entity,1982,R,125,6.7,35,Sidney J. Furie,14883,13277558
+546,Lord of Illusions,1995,R,109,6.1,-1,Clive Barker,14868,13293081
+547,Abbott and Costello Meet Frankenstein,1948,Not Rated,83,7.4,-1,Charles Barton,14816,4796000
+548,Maniac,1980,R,87,6.5,22,William Lustig,14804,-1
+549,Berberian Sound Studio,2012,Not Rated,92,6.2,80,Peter Strickland,14681,-1
+550,Vampire's Kiss,1988,R,103,6.0,31,Robert Bierman,14526,725131
+551,April Fool's Day,1986,R,89,6.2,49,Fred Walton,14510,12947763
+552,Raising Cain,1992,R,92,6.1,-1,Brian De Palma,14340,21370057
+553,Maniac Cop,1988,R,85,6.0,40,William Lustig,14281,671382
+554,The Stuff,1985,R,87,5.9,-1,Larry Cohen,14172,-1
+555,Night of the Demons,1988,R,90,6.2,-1,Kevin Tenney,13971,3109904
+556,Faust,1926,Not Rated,107,8.1,-1,F.W. Murnau,13965,-1
+557,Bride of Re-Animator,1990,R,96,6.3,-1,Brian Yuzna,13928,-1
+558,Return of the Living Dead III,1993,R,97,5.9,47,Brian Yuzna,13915,54207
+559,"Silent Night, Deadly Night",1984,R,79,5.9,31,Charles E. Sellier Jr.,13816,2491460
+560,Black Sunday,1960,Not Rated,87,7.2,-1,Mario Bava,13734,-1
+561,The Fury,1978,R,118,6.4,64,Brian De Palma,13671,-1
+562,Black Water,2007,R,90,5.9,-1,David Nerlich,13671,-1
+563,The Devils,1971,R,111,7.8,49,Ken Russell,13607,1133022
+564,The Abominable Dr. Phibes,1971,PG-13,94,7.1,-1,Robert Fuest,13519,554365
+565,Kim Bok-nam salinsageonui jeonmal,2010,Not Rated,115,7.3,-1,Cheol-soo Jang,13449,-1
+566,Phantasm II,1988,R,97,6.5,42,Don Coscarelli,13367,7282851
+567,The Stepfather,1987,R,89,6.8,72,Joseph Ruben,13230,2488740
+568,Hardware,1990,R,94,6.0,-1,Richard Stanley,13100,5728953
+569,The Little Girl Who Lives Down the Lane,1976,PG,91,7.1,53,Nicolas Gessner,13095,-1
+570,The Bad Seed,1956,Approved,129,7.5,51,Mervyn LeRoy,12952,-1
+571,"Hush...Hush, Sweet Charlotte",1964,Not Rated,133,7.6,-1,Robert Aldrich,12923,-1
+572,Pit and the Pendulum,1961,Not Rated,80,7.1,78,Roger Corman,12799,4360000
+573,The Masque of the Red Death,1964,Not Rated,89,7.0,77,Roger Corman,12789,-1
+574,The House by the Cemetery,1981,Not Rated,86,6.2,-1,Lucio Fulci,12728,-1
+575,Riki-Oh: The Story of Ricky,1991,R,91,7.1,-1,Ngai Choi Lam,12652,-1
+576,Dr. Jekyll and Mr. Hyde,1931,Passed,98,7.6,-1,Rouben Mamoulian,12595,-1
+577,Undead,2003,R,97,5.4,34,Michael Spierig,12551,41196
+578,Versus,2000,R,119,6.4,-1,Ryûhei Kitamura,12492,-1
+579,Häxan,1922,Not Rated,91,7.7,-1,Benjamin Christensen,12468,-1
+580,The Funhouse,1981,R,96,5.9,56,Tobe Hooper,12281,7886857
+581,Chopping Mall,1986,R,77,5.6,22,Jim Wynorski,12237,-1
+582,Threads,1984,TV-MA,112,8.0,92,Mick Jackson,12192,-1
+583,Curse of the Demon,1957,Not Rated,95,7.5,-1,Jacques Tourneur,12088,-1
+584,House of Usher,1960,Approved,79,7.0,75,Roger Corman,12088,3161000
+585,The Legend of Hell House,1973,PG,95,6.7,56,John Hough,12005,-1
+586,The Cottage,2008,Unrated,92,6.1,-1,Paul Andrew Williams,11928,-1
+587,The Picture of Dorian Gray,1945,Not Rated,110,7.5,-1,Albert Lewin,11922,-1
+588,Dread,2009,R,98,5.7,-1,Anthony DiBlasi,11822,-1
+589,Calvaire,2004,Not Rated,88,6.2,52,Fabrice du Welz,11684,2623
+590,My Little Eye,2002,R,95,5.5,-1,Marc Evans,11664,-1
+591,The Crazies,1973,R,103,6.1,63,George A. Romero,11638,150000
+592,Alice,1988,Not Rated,86,7.5,-1,Jan Svankmajer,11607,-1
+593,The Slumber Party Massacre,1982,R,77,5.7,-1,Amy Holden Jones,11517,-1
+594,The Testament of Dr. Mabuse,1933,Not Rated,122,8.0,-1,Fritz Lang,11478,-1
+595,Cure,1997,Not Rated,111,7.4,70,Kiyoshi Kurosawa,11295,94596
+596,Gozu,2003,R,129,7.0,58,Takashi Miike,11230,54419
+597,Dance of the Dead,2008,R,87,5.8,-1,Gregg Bishop,11206,-1
+598,Waxwork,1988,R,95,6.2,41,Anthony Hickox,11121,808114
+599,I Walked with a Zombie,1943,Approved,69,7.1,-1,Jacques Tourneur,11076,-1
+600,Dead of Night,1945,Approved,77,7.6,-1,Alberto Cavalcanti,11038,-1
+601,Tokyo Gore Police,2008,Not Rated,110,5.9,-1,Yoshihiro Nishimura,10896,-1
+602,The Keep,1983,R,96,5.8,34,Michael Mann,10895,3758840
+603,C.H.U.D.,1984,R,88,5.6,57,Douglas Cheek,10803,4654423
+604,Alligator,1980,R,91,6.0,62,Lewis Teague,10758,-1
+605,Murder Party,2007,Not Rated,79,5.8,-1,Jeremy Saulnier,10737,-1
+606,The Phantom Carriage,1921,Not Rated,107,8.1,-1,Victor Sjöström,10721,-1
+607,Monkey Shines,1988,R,113,6.2,71,George A. Romero,10659,5344577
+608,The Most Dangerous Game,1932,PG-13,63,7.1,-1,Irving Pichel,10658,965740
+609,The Raven,1963,G,86,6.6,-1,Roger Corman,10642,-1
+610,Brainscan,1994,R,96,6.1,-1,John Flynn,10625,4264509
+611,Wake in Fright,1971,R,109,7.7,85,Ted Kotcheff,10579,50394
+612,Black Sabbath,1963,Not Rated,92,7.1,82,Mario Bava,10519,-1
+613,The Lodger: A Story of the London Fog,1927,Not Rated,92,7.3,-1,Alfred Hitchcock,10417,-1
+614,The Hunchback of Notre Dame,1939,Passed,117,7.8,-1,William Dieterle,10399,3270000
+615,I Sell the Dead,2008,Not Rated,85,6.1,62,Glenn McQuaid,10388,7066
+616,Motel Hell,1980,R,101,6.0,64,Kevin Connor,10116,6342668
+617,Noroi,2005,Not Rated,115,7.0,-1,Kôji Shiraishi,10097,-1
+618,The Lair of the White Worm,1988,R,93,5.9,61,Ken Russell,10090,1189315
+619,The Uninvited,1944,Passed,99,7.3,-1,Lewis Allen,10031,-1
+620,Terror Train,1980,R,97,5.9,-1,Roger Spottiswoode,9989,-1
+621,Martin,1977,R,95,7.1,68,George A. Romero,9950,100000
+622,Tales from the Crypt,1972,PG,92,7.0,-1,Freddie Francis,9948,1696905
+623,Dead & Buried,1981,R,94,6.6,-1,Gary Sherman,9909,216166
+624,Begotten,1989,Unrated,72,5.8,-1,E. Elias Merhige,9897,-1
+625,When a Stranger Calls,1979,R,97,6.5,58,Fred Walton,9895,21411158
+626,Juan of the Dead,2011,Not Rated,92,6.4,-1,Alejandro Brugués,9868,18005
+627,Burnt Offerings,1976,PG,116,6.5,48,Dan Curtis,9780,-1
+628,Brain Damage,1988,R,84,6.7,-1,Frank Henenlotter,9762,-1
+629,Puppet Master,1989,R,90,5.6,-1,David Schmoeller,9736,-1
+630,The Curse of Frankenstein,1957,Approved,82,7.1,59,Terence Fisher,9688,17440000
+631,The Black Cat,1934,Not Rated,65,7.0,-1,Edgar G. Ulmer,9663,514480
+632,"Alice, Sweet Alice",1976,R,107,6.5,67,Alfred Sole,9639,-1
+633,Dolls,1987,R,77,6.3,55,Stuart Gordon,9639,-1
+634,Theater of Blood,1973,R,104,7.2,-1,Douglas Hickox,9633,-1
+635,The Collector,1965,Not Rated,119,7.6,-1,William Wyler,9616,-1
+636,The Night Flier,1997,R,94,6.0,36,Mark Pavia,9606,125397
+637,The New York Ripper,1982,Not Rated,85,6.4,-1,Lucio Fulci,9592,-1
+638,The Prowler,1981,R,89,6.1,45,Joseph Zito,9580,-1
+639,The Hound of the Baskervilles,1939,Approved,80,7.5,-1,Sidney Lanfield,9484,-1
+640,The Car,1977,PG,96,6.2,-1,Elliot Silverstein,9432,-1
+641,Mother of Tears,2007,R,102,5.1,52,Dario Argento,9423,58669
+642,The Hound of the Baskervilles,1959,Not Rated,87,7.0,-1,Terence Fisher,9417,-1
+643,The Old Dark House,1932,Not Rated,72,7.1,-1,James Whale,9414,25678
+644,A Bay of Blood,1971,R,84,6.6,-1,Mario Bava,9376,-1
+645,Quatermass and the Pit,1967,Approved,97,7.0,-1,Roy Ward Baker,9348,-1
+646,White Zombie,1932,Passed,69,6.3,-1,Victor Halperin,9342,-1
+647,Magic,1978,R,107,6.8,49,Richard Attenborough,9340,25942000
+648,Lovely Molly,2011,R,99,5.3,50,Eduardo Sánchez,9281,-1
+649,Street Trash,1987,Unrated,91,6.1,-1,J. Michael Muro,9274,-1
+650,Horror Express,1972,R,88,6.6,68,Eugenio Martín,9272,-1
+651,Innocent Blood,1992,R,112,6.2,-1,John Landis,9269,4972818
+652,Day of Wrath,1943,Not Rated,110,8.1,-1,Carl Theodor Dreyer,9237,-1
+653,Blood and Black Lace,1964,Not Rated,88,7.2,-1,Mario Bava,9235,-1
+654,Witchfinder General,1968,Unrated,86,6.8,-1,Michael Reeves,9209,-1
+655,Santa's Slay,2005,R,78,5.4,-1,David Steiman,9204,-1
+656,The Sentinel,1977,R,92,6.4,-1,Michael Winner,9154,-1
+657,Wolfen,1981,R,115,6.3,64,Michael Wadleigh,9128,10626725
+658,Dracula,1979,R,109,6.5,67,John Badham,9118,20158970
+659,Son of Frankenstein,1939,Approved,99,7.1,-1,Rowland V. Lee,9101,-1
+660,Cannibal Ferox,1981,Not Rated,93,5.2,-1,Umberto Lenzi,9097,-1
+661,The Spiral Staircase,1946,Approved,83,7.4,-1,Robert Siodmak,9057,-1
+662,The Addiction,1995,Not Rated,82,6.5,-1,Abel Ferrara,8972,302393
+663,Frankenhooker,1990,R,85,6.2,-1,Frank Henenlotter,8935,205068
+664,Dracula: Prince of Darkness,1966,Unrated,90,6.8,-1,Terence Fisher,8920,795562
+665,Sien lui yau wan,1987,Unrated,98,7.5,-1,Siu-Tung Ching,8864,-1
+666,The Dead,2010,R,105,5.7,59,Howard J. Ford,8846,-1
+667,White Dog,1982,PG,90,7.1,-1,Samuel Fuller,8830,-1
+668,Dumplings,2004,Not Rated,91,6.8,-1,Fruit Chan,8730,-1
+669,Angst,1983,Not Rated,87,7.3,-1,Gerald Kargl,8729,-1
+670,The Last Wave,1977,PG,106,7.0,85,Peter Weir,8724,-1
+671,Pieces,1982,Not Rated,85,6.1,-1,Juan Piquer Simón,8718,2032311
+672, Masters of Horror,2005,TV-MA,59,7.6,-1,John Carpenter,8717,-1
+673,Tarantula,1955,Approved,80,6.5,-1,Jack Arnold,8695,1100000
+674,The Last Winter,2006,Not Rated,101,5.6,69,Larry Fessenden,8686,32921
+675,Cold Prey 2,2008,Not Rated,86,6.2,-1,Mats Stenberg,8636,-1
+676,The Battery,2012,Not Rated,101,6.4,-1,Jeremy Gardner,8634,-1
+677,It Came from Outer Space,1953,Approved,81,6.5,-1,Jack Arnold,8600,-1
+678,Satan,2006,Not Rated,95,5.7,-1,Kim Chapiron,8579,-1
+679,Targets,1968,R,90,7.4,-1,Peter Bogdanovich,8566,-1
+680,The Happiness of the Katakuris,2001,R,113,7.1,60,Takashi Miike,8494,-1
+681,Tourist Trap,1979,PG,90,6.2,-1,David Schmoeller,8459,-1
+682,Nekromantik,1987,Not Rated,71,5.0,-1,Jörg Buttgereit,8449,-1
+683,The Hamiltons,2006,R,86,5.1,-1,Mitchell Altieri,8432,-1
+684,The Dentist,1996,R,92,5.3,-1,Brian Yuzna,8414,-1
+685,Something Wicked This Way Comes,1983,PG,95,6.8,-1,Jack Clayton,8394,8400000
+686,Happy Birthday to Me,1981,R,110,6.1,24,J. Lee Thompson,8349,-1
+687,Valerie and Her Week of Wonders,1970,Not Rated,77,7.2,-1,Jaromil Jires,8328,-1
+688,Island of Lost Souls,1932,Passed,70,7.4,-1,Erle C. Kenton,8290,-1
+689,The Body Snatcher,1945,Approved,78,7.3,-1,Robert Wise,8287,-1
+690,Dr. Jekyll and Mr. Hyde,1941,Passed,113,6.8,-1,Victor Fleming,8265,-1
+691,The Mummy,1959,Unrated,88,6.8,62,Terence Fisher,8260,-1
+692,Don't Torture a Duckling,1972,Not Rated,105,7.1,-1,Lucio Fulci,8219,-1
+693,Demon Seed,1977,Approved,94,6.3,55,Donald Cammell,8203,-1
+694,The Devil Rides Out,1968,G,95,7.0,-1,Terence Fisher,8002,-1
+695,The Burrowers,2008,R,96,5.7,-1,J.T. Petty,7927,-1
+696,Class of Nuke 'Em High,1986,R,85,5.7,-1,Richard W. Haines,7884,-1
+697,Frankenstein Meets the Wolf Man,1943,Approved,74,6.5,-1,Roy William Neill,7884,-1
+698,The Call of Cthulhu,2005,Not Rated,47,7.2,-1,Andrew Leman,7831,-1
+699,Humanoids from the Deep,1980,R,80,5.7,49,Barbara Peeters,7809,-1
+700,Poultrygeist: Night of the Chicken Dead,2006,Not Rated,103,6.1,-1,Lloyd Kaufman,7773,23000
+701,Grace,2009,R,85,5.1,52,Paul Solet,7679,6174
+702,Ghost Story,1981,R,110,6.3,-1,John Irvin,7661,23371905
+703,Phase IV,1974,PG,84,6.5,49,Saul Bass,7655,-1
+704,The Stendhal Syndrome,1996,Not Rated,113,6.1,42,Dario Argento,7615,-1
+705,Intruder,1989,R,83,6.3,-1,Scott Spiegel,7476,-1
+706,The House on Sorority Row,1982,R,91,6.0,50,Mark Rosman,7439,1292888
+707,The Reflecting Skin,1990,R,96,6.8,-1,Philip Ridley,7400,-1
+708,Let Sleeping Corpses Lie,1974,R,95,6.8,-1,Jorge Grau,7398,-1
+709,Let's Scare Jessica to Death,1971,GP,89,6.4,-1,John D. Hancock,7392,-1
+710,The Cremator,1969,Not Rated,95,8.1,-1,Juraj Herz,7383,-1
+711,Invasion of the Triffids,1963,Approved,93,6.2,-1,Steve Sekely,7377,-1
+712,Uzumaki,2000,90 min,90,6.2,62,Higuchinsky,7352,-1
+713,The Tingler,1959,Not Rated,82,6.7,-1,William Castle,7322,-1
+714,Trouble Every Day,2001,Not Rated,101,6.0,40,Claire Denis,7316,9189
+715,The Unknown,1927,Unrated,63,7.8,-1,Tod Browning,7308,406600
+716,4 mosche di velluto grigio,1971,PG,104,6.7,-1,Dario Argento,7273,-1
+717,Castle Freak,1995,R,90,6.0,-1,Stuart Gordon,7270,-1
+718,Secuestrados,2010,Not Rated,85,6.4,49,Miguel Ángel Vivas,7242,-1
+719,Invaders from Mars,1953,Approved,78,6.3,-1,William Cameron Menzies,7196,-1
+720,It's Alive,1974,PG,91,5.8,72,Larry Cohen,7121,-1
+721,The Town That Dreaded Sundown,1976,Approved,90,6.0,52,Charles B. Pierce,7118,-1
+722,Dementia 13,1963,Unrated,75,5.7,-1,Francis Ford Coppola,7102,-1
+723,The Nameless,1999,R,102,5.9,-1,Jaume Balagueró,7030,-1
+724,The 4th Man,1983,Unrated,102,7.2,-1,Paul Verhoeven,7027,-1
+725,Q,1982,R,93,6.0,-1,Larry Cohen,7012,-1
+726,"The Beast from 20,000 Fathoms",1953,Approved,80,6.7,-1,Eugène Lourié,7005,5000000
+727,The Church,1989,R,102,6.2,-1,Michele Soavi,6968,-1
+728,StageFright,1987,Unrated,90,6.7,-1,Michele Soavi,6887,-1
+729,The Golem,1920,Unrated,91,7.2,-1,Carl Boese,6869,-1
+730,Dead Heat,1988,R,86,6.1,-1,Mark Goldblatt,6864,3588626
+731,The Driller Killer,1979,Not Rated,96,5.2,66,Abel Ferrara,6847,-1
+732,The Brides of Dracula,1960,Unrated,85,6.7,-1,Terence Fisher,6833,-1
+733,Isolation,2005,R,95,5.6,-1,Billy O'Brien,6827,-1
+734,Eaten Alive,1976,R,91,5.5,48,Tobe Hooper,6639,-1
+735,Parents,1989,R,81,6.2,66,Bob Balaban,6624,870532
+736,Phantom of the Opera,1943,Approved,92,6.4,63,Arthur Lubin,6597,3488000
+737,Who Can Kill a Child?,1976,R,112,7.3,-1,Narciso Ibáñez Serrador,6567,-1
+738,Dracula Has Risen from the Grave,1968,G,92,6.6,-1,Freddie Francis,6482,-1
+739,Tales of Terror,1962,Not Rated,89,6.9,68,Roger Corman,6460,-1
+740,TerrorVision,1986,R,83,5.7,-1,Ted Nicolaou,6412,320256
+741,Black Cat,1968,Not Rated,99,7.7,-1,Kaneto Shindô,6406,-1
+742,Hell Night,1981,R,101,5.8,36,Tom DeSimone,6349,-1
+743,Trauma,1993,R,106,5.9,-1,Dario Argento,6337,-1
+744,Trilogy of Terror,1975,Unrated,72,6.6,-1,Dan Curtis,6300,-1
+745,The City of the Dead,1960,PG-13,76,6.8,-1,John Llewellyn Moxey,6244,-1
+746,Lady in White,1988,PG-13,113,6.7,70,Frank LaLoggia,6244,1705139
+747,"Spider Baby or, the Maddest Story Ever Told",1967,Not Rated,81,6.9,-1,Jack Hill,6231,-1
+748,X: The Man with the X-Ray Eyes,1963,Not Rated,79,6.7,-1,Roger Corman,6209,-1
+749,Asylum,1972,PG,88,6.5,65,Roy Ward Baker,6169,-1
+750,Reincarnation,2005,R,96,6.2,-1,Takashi Shimizu,6144,-1
+751,The Haunted Palace,1963,Not Rated,87,6.8,-1,Roger Corman,6142,2616000
+752,Christmas Evil,1980,R,100,5.6,-1,Lewis Jackson,6138,-1
+753,House of Frankenstein,1944,Passed,71,6.3,-1,Erle C. Kenton,6105,-1
+754,The Seventh Victim,1943,Approved,71,6.8,-1,Mark Robson,6037,-1
+755,A Bucket of Blood,1959,Approved,66,6.7,-1,Roger Corman,6028,-1
+756,The Man Who Laughs,1928,Not Rated,110,7.7,-1,Paul Leni,6025,-1
+757,Blood Feast,1963,Not Rated,67,5.1,-1,Herschell Gordon Lewis,6022,4000000
+758,Otesánek,2000,132 min,132,7.3,74,Jan Svankmajer,5993,116710
+759,"Kill, Baby... Kill!",1966,GP,83,7.0,-1,Mario Bava,5993,-1
+760,Seance on a Wet Afternoon,1964,115 min,115,7.6,-1,Bryan Forbes,5989,-1
+761,Viy,1967,Not Rated,77,7.4,-1,Konstantin Ershov,5983,-1
+762,Dracula's Daughter,1936,Approved,71,6.4,-1,Lambert Hillyer,5940,-1
+763,Blacula,1972,PG,93,5.7,-1,William Crain,5936,3000000
+764,Man Behind the Sun,1988,Not Rated,105,6.1,-1,Tun Fei Mou,5893,-1
+765,Razorback,1984,R,95,6.0,-1,Russell Mulcahy,5844,150000
+766,Frogs,1972,PG,91,4.4,51,George McCowan,5843,475265
+767,The Curse of the Cat People,1944,Passed,70,6.8,-1,Gunther von Fritsch,5840,-1
+768,Mum & Dad,2008,Not Rated,84,5.9,-1,Steven Sheil,5782,-1
+769,Dead & Breakfast,2004,R,88,5.8,34,Matthew Leutwyler,5762,-1
+770,Race with the Devil,1975,PG,88,6.7,53,Jack Starrett,5732,12644000
+771,Dracula A.D. 1972,1972,PG,96,6.0,-1,Alan Gibson,5719,-1
+772,Spirits of the Dead,1968,R,121,6.5,-1,Federico Fellini,5713,-1
+773,Torso,1973,R,92,6.5,-1,Sergio Martino,5713,-1
+774,Amer,2009,Not Rated,90,6.2,72,Hélène Cattet,5710,-1
+775,Satan's Little Helper,2004,R,96,5.3,-1,Jeff Lieberman,5708,-1
+776,The Other,1972,PG,108,6.9,65,Robert Mulligan,5669,475611
+777,Dr. Phibes Rises Again,1972,PG,89,6.4,-1,Robert Fuest,5648,-1
+778,Images,1972,R,104,7.1,-1,Robert Altman,5626,-1
+779,The Watcher in the Woods,1980,PG,84,6.3,-1,John Hough,5608,5000000
+780,The Ghost of Frankenstein,1942,Approved,67,6.2,-1,Erle C. Kenton,5575,-1
+781,The Vampire Lovers,1970,R,91,6.5,63,Roy Ward Baker,5545,-1
+782,Red White & Blue,2010,Not Rated,103,6.4,81,Simon Rumley,5493,-1
+783,The House That Dripped Blood,1971,PG,102,6.6,55,Peter Duffell,5476,-1
+784,The Quatermass Xperiment,1955,Not Rated,78,6.7,-1,Val Guest,5462,-1
+785,Auch Zwerge haben klein angefangen,1970,Not Rated,96,6.9,-1,Werner Herzog,5461,-1
+786,Paperhouse,1988,PG-13,92,6.7,-1,Bernard Rose,5456,241278
+787,The Tomb of Ligeia,1964,Not Rated,82,6.6,-1,Roger Corman,5435,-1
+788,Dark Night of the Scarecrow,1981,Not Rated,96,6.8,-1,Frank De Felitta,5429,-1
+789,Planet of the Vampires,1965,Not Rated,88,6.3,-1,Mario Bava,5427,251000
+790,The Curse of the Werewolf,1961,Approved,93,6.6,-1,Terence Fisher,5427,-1
+791,The Night Stalker,1972,Not Rated,74,7.6,-1,John Llewellyn Moxey,5415,-1
+792,The Nanny,1965,Unrated,93,7.2,-1,Seth Holt,5408,-1
+793,13 Ghosts,1960,Not Rated,85,6.1,56,William Castle,5401,3270000
+794,Antropophagus,1980,R,92,5.4,-1,Joe D'Amato,5382,-1
+795,Flesh for Frankenstein,1973,R,95,5.9,-1,Paul Morrissey,5373,10246000
+796,Bloodsucking Freaks,1976,Unrated,84,4.9,-1,Joel M. Reed,5362,-1
+797,Dr. Terror's House of Horrors,1965,Unrated,98,6.7,-1,Freddie Francis,5352,-1
+798,Squirm,1976,PG,92,4.8,-1,Jeff Lieberman,5346,-1
+799,Road Games,1981,PG,101,6.6,71,Richard Franklin,5340,-1
+800,Taste the Blood of Dracula,1970,R,91,6.4,-1,Peter Sasdy,5321,-1
+801,Tombs of the Blind Dead,1972,PG,101,6.2,-1,Amando de Ossorio,5298,-1
+802,Mute Witness,1995,R,95,6.7,-1,Anthony Waller,5297,1204430
+803,Slaughter High,1985,R,90,5.3,-1,George Dugdale,5284,-1
+804,Rammbock: Berlin Undead,2010,R,63,6.3,-1,Marvin Kren,5278,-1
+805,The Comedy of Terrors,1963,Not Rated,84,6.7,-1,Jacques Tourneur,5170,-1
+806,Blood for Dracula,1974,R,106,6.2,-1,Paul Morrissey,5169,-1
+807,Just Before Dawn,1981,R,90,6.2,-1,Jeff Lieberman,5168,-1
+808,Burial Ground: The Nights of Terror,1981,Unrated,85,5.7,-1,Andrea Bianchi,5150,-1
+809,Madman,1981,R,88,5.3,-1,Joe Giannone,5117,-1
+810,Scars of Dracula,1970,R,95,6.2,-1,Roy Ward Baker,5046,-1
+811,It Came from Beneath the Sea,1955,Not Rated,79,6.0,-1,Robert Gordon,4985,-1
+812,Dans ma peau,2002,Unrated,93,6.2,68,Marina de Van,4982,31046
+813,Marebito,2004,R,92,6.1,50,Takashi Shimizu,4971,13893
+814,Strait-Jacket,1964,Approved,93,6.8,-1,William Castle,4970,-1
+815,Daughters of Darkness,1971,R,87,6.6,74,Harry Kümel,4953,-1
+816,Werewolf of London,1935,Passed,75,6.4,-1,Stuart Walker,4944,-1
+817,Shock Waves,1977,PG,85,5.6,-1,Ken Wiederhorn,4935,-1
+818,The Vault of Horror,1973,R,87,6.6,-1,Roy Ward Baker,4932,-1
+819,Vamp,1986,R,93,6.0,-1,Richard Wenk,4924,4941117
+820,Dr. Jekyll and Mr. Hyde,1920,Unrated,69,7.0,-1,John S. Robertson,4924,-1
+821,The Blood on Satan's Claw,1971,R,97,6.4,-1,Piers Haggard,4916,-1
+822,The Woman in Black,1989,Not Rated,102,7.2,-1,Herbert Wise,4890,-1
+823,House of Dracula,1945,Approved,67,5.8,-1,Erle C. Kenton,4872,-1
+824,Dust Devil,1992,R,87,6.3,-1,Richard Stanley,4864,-1
+825,The Hunchback of Notre Dame,1923,Passed,133,7.2,-1,Wallace Worsley,4853,2223160
+826,Mystery of the Wax Museum,1933,Passed,77,6.8,-1,Michael Curtiz,4817,-1
+827,House on the Edge of the Park,1980,Not Rated,91,5.8,-1,Ruggero Deodato,4802,-1
+828,Twins of Evil,1971,R,87,6.6,62,John Hough,4791,-1
+829,The Revenge of Frankenstein,1958,Unrated,90,6.8,-1,Terence Fisher,4747,-1
+830,The House of the Laughing Windows,1976,110 min,110,7.1,-1,Pupi Avati,4746,-1
+831,The Raven,1935,Approved,61,7.0,44,Lew Landers,4727,-1
+832,God Told Me To,1976,R,91,6.3,55,Larry Cohen,4716,-1
+833,Son of Dracula,1943,Passed,80,6.1,-1,Robert Siodmak,4697,-1
+834,The Leopard Man,1943,Approved,66,6.9,-1,Jacques Tourneur,4671,-1
+835,Alone in the Dark,1982,R,92,6.1,63,Jack Sholder,4660,-1
+836,Mad Love,1935,Passed,68,7.3,-1,Karl Freund,4604,-1
+837,Scarecrows,1988,R,83,5.4,-1,William Wesley,4585,-1
+838,Kingdom of the Spiders,1977,PG,97,5.8,-1,John 'Bud' Cardos,4584,17000000
+839,Deranged: Confessions of a Necrophile,1974,R,183,6.4,-1,Jeff Gillen,4564,45000
+840,What Have You Done to Solange?,1972,R,107,7.0,-1,Massimo Dallamano,4547,-1
+841,The Plague of the Zombies,1966,Approved,90,6.6,-1,John Gilling,4491,-1
+842,A Lizard in a Woman's Skin,1971,Not Rated,95,6.9,-1,Lucio Fulci,4460,-1
+843,Mark of the Vampire,1935,Passed,60,6.3,-1,Tod Browning,4454,-1
+844,Long Weekend,1978,Not Rated,97,6.6,61,Colin Eggleston,4449,-1
+845,Beyond the Darkness,1979,Unrated,94,6.3,-1,Joe D'Amato,4437,-1
+846,The Psychic,1977,R,90,6.9,-1,Lucio Fulci,4424,-1
+847,Captain Kronos: Vampire Hunter,1974,R,91,6.5,-1,Brian Clemens,4380,-1
+848,Frankenstein Created Woman,1967,Unrated,92,6.6,-1,Terence Fisher,4364,-1
+849,Student Bodies,1981,R,86,5.6,41,Mickey Rose,4350,5165432
+850,Two Thousand Maniacs!,1964,Not Rated,83,5.9,-1,Herschell Gordon Lewis,4337,-1
+851,Bloody Birthday,1981,R,85,5.8,49,Ed Hunt,4322,-1
+852,Slugs,1988,R,89,5.2,-1,Juan Piquer Simón,4321,-1
+853,The Beast,1975,Not Rated,98,5.7,-1,Walerian Borowczyk,4301,-1
+854,Mother's Day,1980,Unrated,91,5.4,-1,Charles Kaufman,4285,-1
+855,Frankenstein Must Be Destroyed,1969,PG-13,101,6.8,-1,Terence Fisher,4275,100437
+856,Las Vampiras,1971,Unrated,89,5.5,-1,Jesús Franco,4265,-1
+857,The Skeleton Dance,1929,Approved,6,7.7,-1,Walt Disney,4255,-1
+858,Curtains,1983,R,89,5.7,-1,Richard Ciupka,4213,-1
+859,Blood Diner,1987,Unrated,88,5.3,-1,Jackie Kong,4183,-1
+860,The Deadly Spawn,1983,R,81,6.0,-1,Douglas McKeown,4159,-1
+861,Home Movie,2008,R,77,5.6,-1,Christopher Denham,4153,-1
+862,Children Shouldn't Play with Dead Things,1972,PG,87,5.4,47,Bob Clark,4112,-1
+863,From Beyond the Grave,1974,PG,97,6.7,-1,Kevin Connor,4084,-1
+864,Lisa and the Devil,1973,Not Rated,95,6.4,-1,Mario Bava,4079,-1
+865,In a Glass Cage,1986,Unrated,110,6.8,-1,Agustí Villaronga,4060,-1
+866,Wendigo,2001,R,91,5.0,63,Larry Fessenden,4036,100319
+867,The Devil-Doll,1936,Passed,78,7.0,-1,Tod Browning,4025,-1
+868,Isle of the Dead,1945,Not Rated,71,6.6,-1,Mark Robson,4022,-1
+869,Drácula,1931,Unrated,104,7.2,-1,George Melford,4021,-1
+870,Popcorn,1991,R,91,5.9,51,Mark Herrier,4013,4205000
+871,Scream of Fear,1961,Approved,81,7.4,-1,Seth Holt,4004,-1
+872,The Strange Vice of Mrs. Wardh,1971,R,81,7.0,-1,Sergio Martino,3989,-1
+873,The Evil Eye,1963,Not Rated,86,7.1,-1,Mario Bava,3975,-1
+874,Pin,1988,R,103,6.6,-1,Sandor Stern,3905,-1
+875,Raw Meat,1972,Unrated,87,6.0,-1,Gary Sherman,3887,-1
+876,"Silent Night, Bloody Night",1972,R,81,5.6,-1,Theodore Gershuny,3870,-1
+877,Murders in the Rue Morgue,1932,Passed,61,6.4,-1,Robert Florey,3853,-1
+878,Don't Go in the House,1979,R,82,5.7,-1,Joseph Ellison,3841,-1
+879,The Shout,1978,86 min,86,6.7,-1,Jerzy Skolimowski,3817,-1
+880,Willard,1971,GP,95,6.2,49,Daniel Mann,3749,19216000
+881,Frankenstein,1910,Unrated,16,6.4,-1,J. Searle Dawley,3722,-1
+882,Countess Dracula,1971,PG,93,6.0,-1,Peter Sasdy,3699,-1
+883,Vampire Circus,1972,PG,84,6.4,-1,Robert Young,3684,-1
+884,Maléfique,2002,Not Rated,90,6.3,-1,Eric Valette,3673,-1
+885,Premature Burial,1962,Unrated,81,6.5,-1,Roger Corman,3672,-1
+886,Ebola Syndrome,1996,Not Rated,98,6.5,-1,Herman Yau,3559,-1
+887,The Beast Within,1982,R,98,5.6,-1,Philippe Mora,3536,7742572
+888,La cabina,1972,35 min,35,7.9,-1,Antonio Mercero,3516,-1
+889,Bedlam,1946,Approved,79,6.8,-1,Mark Robson,3516,-1
+890,The Housemaid,1960,Not Rated,109,7.3,-1,Ki-young Kim,3503,-1
+891,Mr. Vampire,1985,PG-13,96,7.4,-1,Ricky Lau,3491,-1
+892,Jigoku,1960,Not Rated,101,6.8,-1,Nobuo Nakagawa,3485,-1
+893,The Fall of the House of Usher,1928,Not Rated,63,7.3,-1,Jean Epstein,3485,-1
+894,Lunacy,2005,Not Rated,118,7.3,63,Jan Svankmajer,3466,47957
+895,The Toolbox Murders,1978,R,93,5.3,-1,Dennis Donnelly,3459,-1
+896,Ghostwatch,1992,Not Rated,91,7.6,-1,Lesley Manning,3457,-1
+897,Fiend Without a Face,1958,Not Rated,74,6.2,-1,Arthur Crabtree,3452,-1
+898,Quatermass 2,1957,Approved,85,6.9,-1,Val Guest,3450,-1
+899,Scream and Scream Again,1970,R,95,5.6,-1,Gordon Hessler,3433,376600
+900,The Eight Immortals Restaurant: The Untold Story,1993,Unrated,96,6.9,-1,Danny Lee,3404,-1
+901,The Whip and the Body,1963,Not Rated,87,6.8,-1,Mario Bava,3401,-1
+902,Frankenstein and the Monster from Hell,1974,R,93,6.3,-1,Terence Fisher,3394,-1
+903,Tutti i colori del buio,1972,R,87,6.7,-1,Sergio Martino,3360,-1
+904,Anguish,1987,R,89,6.7,-1,Bigas Luna,3351,228789
+905,Shock,1977,R,93,6.3,-1,Mario Bava,3350,-1
+906,Il rosso segno della follia,1970,GP,88,6.4,-1,Mario Bava,3330,-1
+907,Wild Zero,1999,Not Rated,98,6.4,-1,Tetsuro Takeuchi,3326,-1
+908,Your Vice Is a Locked Room and Only I Have the Key,1972,Not Rated,97,6.8,-1,Sergio Martino,3287,-1
+909,I Drink Your Blood,1970,R,83,6.0,-1,David E. Durston,3265,-1
+910,The Wizard of Gore,1970,Not Rated,95,5.4,-1,Herschell Gordon Lewis,3260,23500
+911,The Reptile,1966,Unrated,90,6.2,-1,John Gilling,3231,-1
+912,Messiah of Evil,1973,R,90,6.5,-1,Willard Huyck,3186,-1
+913,The Lodger,1944,Approved,84,7.1,-1,John Brahm,3173,-1
+914,Vampyres,1974,R,87,6.1,-1,José Ramón Larraz,3120,-1
+915,The Ghost Breakers,1940,Passed,85,7.2,-1,George Marshall,3097,-1
+916,"Burn, Witch, Burn",1962,Not Rated,90,6.9,73,Sidney Hayers,3035,-1
+917,Patrick,1978,PG,96,6.1,-1,Richard Franklin,2987,-1
+918,And Soon the Darkness,1970,GP,94,6.6,-1,Robert Fuest,2987,-1
+919,Mark of the Devil,1970,R,90,6.2,-1,Michael Armstrong,2977,-1
+920,Alucarda,1977,R,78,6.3,-1,Juan López Moctezuma,2974,-1
+921,Lady in a Cage,1964,Not Rated,94,6.8,-1,Walter Grauman,2964,1850000
+922,The House That Screamed,1969,GP,94,6.9,-1,Narciso Ibáñez Serrador,2963,-1
+923,At Midnight I'll Take Your Soul,1964,84 min,84,7.0,-1,José Mojica Marins,2961,-1
+924,Blind Beast,1969,86 min,86,7.2,-1,Yasuzô Masumura,2956,-1
+925,Kurutta ippêji,1926,70 min,70,7.4,-1,Teinosuke Kinugasa,2926,-1
+926,Homicidal,1961,Unrated,88,6.8,-1,William Castle,2876,-1
+927,Mother Joan of the Angels,1961,110 min,110,7.6,-1,Jerzy Kawalerowicz,2866,-1
+928,Doctor X,1932,Unrated,76,6.4,-1,Michael Curtiz,2849,-1
+929,The Kiss of the Vampire,1963,Unrated,88,6.3,-1,Don Sharp,2831,-1
+930,La corta notte delle bambole di vetro,1971,Not Rated,97,6.7,-1,Aldo Lado,2749,-1
+931,The Cat and the Canary,1927,Passed,108,7.1,-1,Paul Leni,2727,325550
+932,Matango,1963,Unrated,89,6.5,-1,Ishirô Honda,2705,-1
+933,The Cat and the Canary,1939,Approved,72,7.2,-1,Elliott Nugent,2705,-1
+934,House of Dark Shadows,1970,PG,97,6.4,-1,Dan Curtis,2683,4002480
+935,The Haunted House,1921,Unrated,21,7.0,-1,Edward F. Cline,2678,-1
+936,Mr. Sardonicus,1961,Approved,89,6.7,-1,William Castle,2637,-1
+937,Body Melt,1993,AO,81,5.3,-1,Philip Brophy,2630,-1
+938,Fascination,1979,Not Rated,80,6.1,-1,Jean Rollin,2512,-1
+939,Hangover Square,1945,Approved,77,7.4,-1,John Brahm,2512,-1
+940,I Bury the Living,1958,Unrated,77,6.3,-1,Albert Band,2499,-1
+941,Blue Sunshine,1977,R,94,6.0,-1,Jeff Lieberman,2473,-1
+942,The Hands of Orlac,1924,Not Rated,92,7.0,-1,Robert Wiene,2463,-1
+943,Dr Jekyll & Sister Hyde,1971,PG,94,6.6,-1,Roy Ward Baker,2458,202800
+944,The Death Wheelers,1973,PG,85,5.8,-1,Don Sharp,2443,-1
+945,The Beast with Five Fingers,1946,Passed,88,6.6,-1,Robert Florey,2398,-1
+946,The Ghoul,1933,Not Rated,77,5.9,-1,T. Hayes Hunter,2383,-1
+947,The Pit,1981,R,96,5.8,-1,Lew Lehman,2378,-1
+948,Haze,2005,Not Rated,49,6.6,-1,Shin'ya Tsukamoto,2371,-1
+949,The Sect,1991,R,125,6.2,-1,Michele Soavi,2367,-1
+950,I Was a Teenage Werewolf,1957,Approved,76,5.2,-1,Gene Fowler Jr.,2322,2000000
+951,"Count Yorga, Vampire",1970,PG-13,93,5.8,-1,Bob Kelljan,2283,212560
+952,The Sadist,1963,Unrated,92,6.7,-1,James Landis,2272,-1
+953,The Living and the Dead,2006,Not Rated,83,5.9,-1,Simon Rumley,2255,-1
+954,Evil Dead Trap,1988,102 min,102,6.2,-1,Toshiharu Ikeda,2251,-1
+955,Die! Die! My Darling!,1965,Not Rated,97,6.4,-1,Silvio Narizzano,2232,-1
+956,Il profumo della signora in nero,1974,Not Rated,103,6.7,-1,Francesco Barilli,2228,-1
+957,The Asphyx,1972,PG,83,6.3,-1,Peter Newbrook,2209,-1
+958,Les raisins de la mort,1978,R,85,6.2,-1,Jean Rollin,2123,-1
+959,Frightmare,1974,R,88,6.3,-1,Pete Walker,2114,-1
+960,Don't Deliver Us from Evil,1971,Unrated,102,6.8,-1,Joël Séria,2096,-1
+961,Castle of Blood,1964,Not Rated,87,6.9,-1,Antonio Margheriti,2076,-1
+962,The Penalty,1920,Passed,90,7.4,-1,Wallace Worsley,2062,-1
+963,Lemora: A Child's Tale of the Supernatural,1973,PG,80,6.3,49,Richard Blackburn,2004,-1
+964,Outer Space,1999,Not Rated,10,7.1,-1,Peter Tscherkassky,1990,-1
+965,The Living Dead Girl,1982,Not Rated,86,5.8,-1,Jean Rollin,1926,-1
+966,Dracula: Pages from a Virgin's Diary,2002,Not Rated,73,6.8,84,Guy Maddin,1884,55365
+967,Gui da gui,1980,R,102,7.1,-1,Sammo Kam-Bo Hung,1879,-1
+968,The Last House on Dead End Street,1973,R,78,5.3,-1,Roger Watkins,1866,-1
+969,Dementia,1955,Not Rated,61,6.8,-1,John Parker,1854,-1
+970,Stalled,2013,Not Rated,84,4.7,-1,Christian James,1838,-1
+971,Rituals,1977,R,100,6.3,-1,Peter Carter,1813,-1
+972,The Tell-Tale Heart,1953,Passed,8,7.5,-1,Ted Parmelee,1808,-1
+973,Waxworks,1924,Not Rated,107,6.6,-1,Leo Birinsky,1796,-1
+974,The Sorcerers,1967,Unrated,86,6.3,-1,Michael Reeves,1740,-1
+975,Sugar Hill,1974,PG,91,5.8,-1,Paul Maslansky,1722,30500
+976,Ganja & Hess,1973,R,110,6.3,-1,Bill Gunn,1712,21197
+977,De dødes tjern,1958,76 min,76,7.1,-1,Kåre Bergstrøm,1711,-1
+978,The Blood Spattered Bride,1972,R,82,6.2,-1,Vicente Aranda,1698,-1
+979,Requiem for a Vampire,1971,R,65,5.5,-1,Jean Rollin,1694,-1
+980,Esta Noite Encarnarei no Teu Cadáver,1967,108 min,108,7.1,-1,José Mojica Marins,1687,-1
+981,The Flesh and the Fiends,1960,94 min,94,6.9,-1,John Gilling,1655,-1
+982,The Black Room,1935,Unrated,68,7.0,-1,Roy William Neill,1626,-1
+983,Baby Blood,1990,R,88,6.0,-1,Alain Robak,1545,-1
+984,Sombre,1998,Not Rated,112,6.1,-1,Philippe Grandrieux,1511,-1
+985,The White Reindeer,1952,Not Rated,74,7.0,-1,Erik Blomberg,1501,-1
+986,Lust of the Vampire,1957,82 min,82,6.6,-1,Riccardo Freda,1451,-1
+987,The Awful Dr. Orlof,1962,Approved,90,6.2,-1,Jesús Franco,1409,-1
+988,The Queen of Spades,1949,95 min,95,7.2,-1,Thorold Dickinson,1347,-1
+989,Il mulino delle donne di pietra,1960,96 min,96,6.6,-1,Giorgio Ferroni,1334,-1
+990,Horrors of Malformed Men,1969,Not Rated,99,6.5,-1,Teruo Ishii,1328,-1
+991,The Stone Tape,1972,90 min,90,6.6,-1,Peter Sasdy,1271,-1
+992,Beauty and the Beast,1978,91 min,91,7.6,-1,Juraj Herz,1167,-1
+993,Girly,1970,R,102,6.6,-1,Freddie Francis,1160,-1
+994,Blood and Roses,1960,Not Rated,74,6.6,-1,Roger Vadim,1134,-1
+995,A Warning to the Curious,1972,50 min,50,7.4,-1,Lawrence Gordon Clark,1045,-1
+996,Kitchen Sink,1989,14 min,14,7.2,-1,Alison Maclean,1007,-1
+997,El vampiro,1957,95 min,95,7.1,-1,Fernando Méndez,770,-1
+998,The Black Pit of Dr. M,1959,71 min,71,6.8,-1,Fernando Méndez,488,-1
+999,Dead of Night,1972,50 min,50,7.3,-1,Peter Barkworth,105,-1
